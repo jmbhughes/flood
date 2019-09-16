@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='FloodGrid',
+    name='flood',
     version='0.1',
-    packages=['FloodGrid', 'test'],
+    packages=['flood', 'test'],
     url='',
     license='',
     author='Marcus Hughes',
